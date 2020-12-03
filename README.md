@@ -1,1 +1,3 @@
 "# Data_Science" 
+# this folder includes many data science scripts that covers different goals of it 
+# from clustering, to classification to other codes... 
